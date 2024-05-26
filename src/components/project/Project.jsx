@@ -5,34 +5,27 @@ import { useRef } from 'react';
 const items = [
     {
         id:1,
-        title:"E-Commerce",
-        img:"https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=600",
-        desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quasi cupiditate aut ipsam? Distinctio soluta accusamus, incidunt molestias, tempore optio dicta eum ut magni rem qui voluptatem, aliquam cupiditate ullam.",
-        link:"#"
-    },
-    {
-        id:2,
         title:"TO DO App - Vue JS",
         img: "https://img.freepik.com/free-vector/people-making-list-illustration_53876-43029.jpg?t=st=1716303857~exp=1716307457~hmac=8e8c67134879361f6b017f71c29b1f30b7ea1776d043b52e4992f25ff42a1cf2&w=740",
         desc:"TODO List built on Local Storage using Vue JS Technology",
         link:"https://todo-sahil.netlify.app/"
     },
     {
-        id:3,
+        id:2,
         title:"Ride Sharing App - Vue JS",
         img:"https://img.freepik.com/free-vector/car-sharing-concept-illustration_114360-15011.jpg?size=626&ext=jpg",
         desc:"Ride Sharing Web Application, where user can select profiles as a driver or passenger and share vehicles based on location. Technologies used - VUE JS, Laravel, Tailwind, MySQL, REST APIs, JavaScript Google Maps API etc.",
         link:"https://github.com/TechnoSah/TripShare.git"
     },
     {
-        id:4,
+        id:3,
         title:"Image Search",
         img:"imgsearch.png",
         desc:"Image Search - Search for any prompt images will be listed. Technologies used - Vite - React, react-bootstrap, Unsplash API",
         link:"https://imgsearch-sahil.netlify.app/"
     },
     {
-        id:5,
+        id:4,
         title:"Portfolio Website - React JS",
         img:"https://images.pexels.com/photos/459653/pexels-photo-459653.jpeg?auto=compress&cs=tinysrgb&w=600",
         desc:"Built an portfolio website using React JS, Sass, framer motion library for animations, mobile responsive.",
